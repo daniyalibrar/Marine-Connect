@@ -1,2 +1,4 @@
 # Marine-Connect
-MERN Stack Education System and Job Portal
+MERN Stack (MySQL(sequelize), Express, React, Node) Education System and Job Portal.
+
+#How To Run
